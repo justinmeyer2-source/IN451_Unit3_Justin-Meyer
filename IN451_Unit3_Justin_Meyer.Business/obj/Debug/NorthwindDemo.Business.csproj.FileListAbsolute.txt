@@ -1,0 +1,9 @@
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\bin\Debug\IN451_Unit3_Justin_Meyer.Business.dll
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\bin\Debug\IN451_Unit3_Justin_Meyer.Business.pdb
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\bin\Debug\IN451_Unit3_Justin_Meyer.Data.dll
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\bin\Debug\IN451_Unit3_Justin_Meyer.Data.pdb
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\obj\Debug\IN451_Unit3_Justin_Meyer.Business.csproj.AssemblyReference.cache
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\obj\Debug\IN451_Unit3_Justin_Meyer.Business.csproj.CoreCompileInputs.cache
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\obj\Debug\Northwin.A82C9811.Up2Date
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\obj\Debug\IN451_Unit3_Justin_Meyer.Business.dll
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Business\obj\Debug\IN451_Unit3_Justin_Meyer.Business.pdb

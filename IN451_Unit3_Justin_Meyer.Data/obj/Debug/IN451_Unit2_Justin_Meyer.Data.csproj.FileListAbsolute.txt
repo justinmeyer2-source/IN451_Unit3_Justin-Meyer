@@ -1,0 +1,12 @@
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Data\bin\Debug\IN451_Unit3_Justin_Meyer.Data.dll
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Data\bin\Debug\IN451_Unit3_Justin_Meyer.Data.pdb
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Data\obj\Debug\IN451_Unit3_Justin_Meyer.Data.csproj.AssemblyReference.cache
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Data\obj\Debug\IN451_Unit3_Justin_Meyer.Data.csproj.CoreCompileInputs.cache
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Data\obj\Debug\IN451_Unit3_Justin_Meyer.Data.dll
+C:\Users\jmeyer2\Downloads\IN451_Unit3_Justin_Meyer_starter\IN451_Unit3_Justin_Meyer.Data\obj\Debug\IN451_Unit3_Justin_Meyer.Data.pdb
+C:\Users\jmeyer2\Downloads\NorthwindDemo_starter\IN451_Unit3_Justin_Meyer.Data\bin\Debug\IN451_Unit3_Justin_Meyer.Data.dll
+C:\Users\jmeyer2\Downloads\NorthwindDemo_starter\IN451_Unit3_Justin_Meyer.Data\bin\Debug\IN451_Unit3_Justin_Meyer.Data.pdb
+C:\Users\jmeyer2\Downloads\NorthwindDemo_starter\IN451_Unit3_Justin_Meyer.Data\obj\Debug\IN451_Unit3_Justin_Meyer.Data.csproj.AssemblyReference.cache
+C:\Users\jmeyer2\Downloads\NorthwindDemo_starter\IN451_Unit3_Justin_Meyer.Data\obj\Debug\IN451_Unit3_Justin_Meyer.Data.csproj.CoreCompileInputs.cache
+C:\Users\jmeyer2\Downloads\NorthwindDemo_starter\IN451_Unit3_Justin_Meyer.Data\obj\Debug\IN451_Unit3_Justin_Meyer.Data.dll
+C:\Users\jmeyer2\Downloads\NorthwindDemo_starter\IN451_Unit3_Justin_Meyer.Data\obj\Debug\IN451_Unit3_Justin_Meyer.Data.pdb

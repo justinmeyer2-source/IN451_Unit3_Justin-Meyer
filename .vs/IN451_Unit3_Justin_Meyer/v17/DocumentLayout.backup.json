@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF300AFB-1D1D-434C-A3FE-0D991BC9339C}|IN451_Unit3_Justin_Meyer.Business\\IN451_Unit3_Justin_Meyer.Business.csproj|c:\\users\\jmeyer2\\onedrive - smithfield foods, inc\\documents\\purdue\\in 451\\in451_unit3_justin_meyer\\in451_unit3_justin_meyer.business\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF300AFB-1D1D-434C-A3FE-0D991BC9339C}|IN451_Unit3_Justin_Meyer.Business\\IN451_Unit3_Justin_Meyer.Business.csproj|solutionrelative:in451_unit3_justin_meyer.business\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FB8126-FF54-49AB-8DDC-2F91CEFE8BD3}|IN451_Unit3_Justin_Meyer.UI\\IN451_Unit3_Justin_Meyer.UI.csproj|C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\in451_unit3_justin_meyer.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FB8126-FF54-49AB-8DDC-2F91CEFE8BD3}|IN451_Unit3_Justin_Meyer.UI\\IN451_Unit3_Justin_Meyer.UI.csproj|solutionrelative:in451_unit3_justin_meyer.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FB8126-FF54-49AB-8DDC-2F91CEFE8BD3}|IN451_Unit3_Justin_Meyer.UI\\IN451_Unit3_Justin_Meyer.UI.csproj|C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\in451_unit3_justin_meyer.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FB8126-FF54-49AB-8DDC-2F91CEFE8BD3}|IN451_Unit3_Justin_Meyer.UI\\IN451_Unit3_Justin_Meyer.UI.csproj|solutionrelative:in451_unit3_justin_meyer.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\IN451_Unit3_Justin_Meyer.Business\\CustomerService.cs",
+              "RelativeDocumentMoniker": "IN451_Unit3_Justin_Meyer.Business\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\IN451_Unit3_Justin_Meyer.Business\\CustomerService.cs",
+              "RelativeToolTip": "IN451_Unit3_Justin_Meyer.Business\\CustomerService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:38:57.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\IN451_Unit3_Justin_Meyer.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "IN451_Unit3_Justin_Meyer.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\IN451_Unit3_Justin_Meyer.UI\\LoginForm.cs",
+              "RelativeToolTip": "IN451_Unit3_Justin_Meyer.UI\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:30:06.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\IN451_Unit3_Justin_Meyer.UI\\Program.cs",
+              "RelativeDocumentMoniker": "IN451_Unit3_Justin_Meyer.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\jmeyer2\\OneDrive - Smithfield Foods, Inc\\Documents\\Purdue\\IN 451\\IN451_Unit3_Justin_Meyer\\IN451_Unit3_Justin_Meyer.UI\\Program.cs",
+              "RelativeToolTip": "IN451_Unit3_Justin_Meyer.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:25:01.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
